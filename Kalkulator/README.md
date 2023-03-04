@@ -1,1 +1,1 @@
-# Sebuah Program Consol yang menrapkan operasi aritmatika \nJumlah, Kurang, Kali dan Bagi
+# Sebuah Program Consol yang menrapkan operasi aritmatika \n Jumlah, Kurang, Kali dan Bagi
