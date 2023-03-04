@@ -1,0 +1,3 @@
+#Folder ini Berisi tentang
+Pengoprasian operator pada c++
+dan menyeliapkan kondisi percabangan untuk memiliki operasi aritmatika
