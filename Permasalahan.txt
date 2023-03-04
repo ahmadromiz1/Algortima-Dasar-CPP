@@ -1,0 +1,8 @@
+Ada seorang petani yang membawa seekor kambing, seekor serigala, dan sekeranjang sayur.
+Mereka berada di tepi sebuah pulau dan ingin menyebrang ke pulau seberang.
+Di tepi pulau itu hanya ada sebuah perahu yang cukup untuk dua penumpang.
+Dengan catatan lain, bahwa kambing tidak boleh ditinggal berdua dengan serigala tanpa adanya
+pemuda karena serigala akan memakan kambing, kemudian kambing tidak boleh ditinggal
+bersama sayur, karena kambing akan memakan sayurnya. Kemudian, yang bisa menggunakan
+perahu hanyalah petani. Bagaimana caranya agar mereka semua bisa menyebrang
+ke pulau seberang dengan utuh?

@@ -1,0 +1,34 @@
+==============================================================
+ALGORTIMA
+==============================================================
+1)	Petani membawa kambing menyeberang ke pulau seberang.
+2)	Petani kembali ke pulau awal dengan perahu kosong.
+3)	Petani membawa serigala menyeberang ke pulau seberang.
+4)	Petani meninggalkan serigala dan membawa kambing kembali ke pulau awal.
+5)	Petani membawa sayur menyeberang ke pulau seberang.
+6)	Petani kembali lagi ke pulau awal kosong.
+7)	Petani membawa kambing menyeberang ke pulau seberang
+
+==============================================================
+Psido Code
+==============================================================
+1)	Inisialisasi
+	Boolean kambing, serigala, dan sayur set = 1
+       *(pulau awal = 1, pulau sebrang = 0)
+2)	Petani membawa kambing ke sebrang -> kambing = 0
+3)	Petani Kembali kepulau awal dengan perahu kosong
+4)	Petani membawa serigala ke sebrang -> serigala = 0
+5)	Jika kambing = 0 dan serigala = 0, maka:
+a.	Petani meninggalkan serigala di pulau seberang dan kembali ke pulau awal membawa kambing
+b.	Set nilai kambing = 1
+6)	Jika kambing = 1 dan sayur = 1, maka:
+a.	Petani membawa sayur ke perahu  sayur = 0
+7)	Jika kambing = 1 dan sayur = 0, maka:
+a.	Petani meninggalkan sayur di pulau seberang dan kembali ke pulau awal"
+b.	Petani membawa kambing ke pulau seberang  kambing=0.
+8)	Jika kambing, serigala, dan sayur di pulau seberang (nilai = 0), 
+a.	Maka (iya):
+a.	Semua benda telah sampai di pulau seberang.
+b.	Jika tidak, maka:
+a.	Ada yang salah, semua benda tidak sampai di pulau seberang."
+9)	Selesai.
